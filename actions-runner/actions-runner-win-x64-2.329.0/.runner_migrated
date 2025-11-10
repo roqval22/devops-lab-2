@@ -4,7 +4,7 @@
   "poolId": 1,
   "poolName": "Default",
   "serverUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/qxNxAfZFUh03AXvyMiVpFobWRWrwTpoVe9lmwuYUbMWHog8nV9/",
-  "gitHubUrl": "https://github.com/roqval22/devops-lab-1",
+  "gitHubUrl": "https://github.com/roqval22/devops-lab-2",
   "workFolder": "_work",
   "useV2Flow": true,
   "serverUrlV2": "https://broker.actions.githubusercontent.com/"

@@ -1,10 +1,10 @@
 ﻿{
-  "repositoryName": "roqval22/devops-lab-1",
-  "pipelineDirectory": "devops-lab-1",
-  "workspaceDirectory": "devops-lab-1\\devops-lab-1",
+  "repositoryName": "roqval22/devops-lab-2",
+  "pipelineDirectory": "devops-lab-2",
+  "workspaceDirectory": "devops-lab-2\\devops-lab-2",
   "repositories": {
-    "roqval22/devops-lab-1": {
-      "repositoryPath": "devops-lab-1\\devops-lab-1",
+    "roqval22/devops-lab-2": {
+      "repositoryPath": "devops-lab-2\\devops-lab-2",
       "lastRunOn": "11/03/2025 13:41:27 +01:00"
     }
   },
